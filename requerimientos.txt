@@ -1,0 +1,7 @@
+*Requerimientos
+
+-Debe ser responsiva
+-Mostrar pasion por sus tomates
+-Dar enfasis a la compra de productos
+-Mostrar logo de empresa
+
